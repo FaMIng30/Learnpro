@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<persons>
+<person>
+<name>猪猪侠</name>
+<gender>男</gender>
+<age>8</age>
+</person>
+
+<person>
+<name>小呆呆</name>
+<gender>男</gender>
+<age>18</age>
+</person>
+</persons>

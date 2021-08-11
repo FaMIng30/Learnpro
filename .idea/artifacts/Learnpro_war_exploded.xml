@@ -1,0 +1,23 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="Learnpro:war exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/Learnpro_war_exploded</output-path>
+    <root id="root">
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="Learnpro" />
+        </element>
+        <element id="directory" name="lib">
+          <element id="library" level="project" name="commons-dbutils-1.7 (2)" />
+          <element id="library" level="project" name="poi-4.1.0 (2)" />
+          <element id="library" level="project" name="poi-ooxml-4.1.0" />
+          <element id="library" level="project" name="poi-ooxml-schemas-4.1.0" />
+          <element id="library" level="project" name="poi-scratchpad-4.1.0" />
+          <element id="library" level="project" name="junit-4.10 (4)" />
+          <element id="library" level="project" name="poi-excelant-4.1.0" />
+        </element>
+      </element>
+      <element id="javaee-facet-resources" facet="Learnpro/web/Web" />
+      <element id="javaee-facet-resources" facet="Learnpro/javaeeApplication/javaEEApplication" />
+    </root>
+  </artifact>
+</component>
